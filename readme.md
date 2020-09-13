@@ -1,0 +1,1 @@
+This is a random password generator that takes the user input (choice of: # of characters, numbers, uppercase, lowercase, and special characters).  )
