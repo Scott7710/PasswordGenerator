@@ -37,9 +37,10 @@ document.getElementById('generate').addEventListener('click', function () {
   var password = ''
   for (var i = 0; i < length; i++) {
       console.log('looping ??', i)
-      password+= passOptions[Math.floor(Math.random() * passOptions.length)]
+      password += passOptions[Math.floor(Math.random() * passOptions.length)]
   }
-
+  console.log('this is oyur passowrd',password)
+  document.getElementById('password').value=password
 });
 
 
