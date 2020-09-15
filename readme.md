@@ -6,4 +6,9 @@ This is a random password generator that takes user input (choice of: # of chara
 
 ### Demo
 
-Click [here] to see the github repository for this project (https://github.com/Scott7710/PasswordGenerator)
+![Demo Screenshot](.)
+
+Deployed app URL: 
+https://scott7710.github.io/PasswordGenerator/
+
+Click  to see the github repository for this project (https://github.com/Scott7710/PasswordGenerator)

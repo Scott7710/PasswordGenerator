@@ -72,7 +72,7 @@ header {
   clear: both;
 }
 
-.btn {
+#generate {
   border: none;
   background-color: hsl(360, 91%, 36%);
   border-radius: 25px;
@@ -88,9 +88,9 @@ header {
   cursor: pointer;
 }
 
-button[] {
+#generate {
   cursor: default;
-  background: #c0c7cf;
+  
 }
 
 .float-right {
@@ -125,9 +125,9 @@ button[] {
     padding: 10px 15px;
   }
 }
- {
-    font-size: 1rem;
-  }
+ 
+    
+
 
 
 @media (max-width: 500px) {
